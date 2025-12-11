@@ -195,7 +195,7 @@
       </div>
       <div class="skill-card">
         <strong>Dashboarding</strong>
-        <p>Power BI, Looker, Tableau — pick your fighter.</p>
+        <p>Power BI, Looker, Tableau, pick your fighter.</p>
       </div>
     </div>
 
