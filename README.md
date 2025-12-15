@@ -71,14 +71,14 @@
     <p style="max-width:700px; margin: 20px auto; text-align:center; line-height:1.6;">
       I’m a data analyst who enjoys turning <strong>raw, messy data</strong> into clear insights that people can actually use.<br/><br/>
       I focus on understanding the <em>story behind the numbers</em>, cleaning and structuring data so analysis is reliable, and building dashboards that help stakeholders make better decisions.<br/><br/>
-      I’m naturally curious, detail-oriented, and slightly obsessed with making things easier to understand — whether that’s a report, a dashboard, or a spreadsheet.
+      I’m naturally curious, detail-oriented, and slightly obsessed with making things easier to understand, whether that’s a report, a dashboard, or a spreadsheet.
     </p>
 
     <h2>📂 Featured Projects</h2>
 
    <a href="https://seyi-adeyemi.github.io/cust-segmentation/" style="text-decoration:none; color:inherit;">
   <div class="card">
-    <h3>Customer Segmenation Analysis: Excel to PowerBI</h3>
+    <h3>Customer Segmentation Analysis: Excel to PowerBI</h3>
     <p><strong>Impact:</strong> Supported leadership with real-time, data-driven insights for strategic decisions.</p>
   </div>
 </a>
